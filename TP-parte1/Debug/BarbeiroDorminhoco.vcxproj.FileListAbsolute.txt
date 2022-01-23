@@ -1,0 +1,2 @@
+C:\Users\Luiz\delt\disciplinas\atr\testes\BarbeiroDorminhocoWin32\Debug\BarbeiroDorminhoco.exe
+C:\Users\Luiz\delt\disciplinas\atr\testes\BarbeiroDorminhocoWin32\Debug\BarbeiroDorminhoco.pdb
